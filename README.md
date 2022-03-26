@@ -1,4 +1,6 @@
 # shopping-app
+Visit shopping app at :- https://apram-shopping-app.herokuapp.com/shopapp/
+
 Shopping app is a web application which is designed on Model View Controller design pattern.
 
 It is developed using SpringMVC.
